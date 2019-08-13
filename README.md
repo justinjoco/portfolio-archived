@@ -1,4 +1,5 @@
-# Justin Joco's Portfolio Website
+# Justin Joco's Portfolio Website 1.x
+First build of portfolio; made in Bootstrap 4
 Includes the following:
 * A summary about me
 * Apps made from hackathons
